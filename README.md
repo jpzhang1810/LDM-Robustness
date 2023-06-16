@@ -30,7 +30,7 @@ We hope this repository can boost the research on the robustness of latent diffu
 
 - `data_construction` : the pipelines for the dataset construction from the coco dataset.
 
-- `dataset` : the dataset for testing the robustness of latent diffusion models, especially the image editing task. The dataset includes 500 data pairs (image+prompt) for image variation models and 500 data triplets (image+prompt+mask) for image inpainting models.
+- `dataset` : the dataset for testing the robustness of latent diffusion models, especially the image editing task. The dataset includes 850 data pairs (image+prompt) for image variation models and 715 data triplets (image+prompt+mask) for image inpainting models.
 
 - `diffusersgrad` : a modified version of the official diffuser library. This modified version allows backward gradient computation and disables the safety checker.
 
