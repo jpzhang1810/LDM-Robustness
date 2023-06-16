@@ -9,7 +9,7 @@ Pytorch implementation for the pilot study on the robustness of latent diffusion
 
 We hope this repository can boost the research on the robustness of latent diffusion models.
 
-**[On the Robustness of Latent Diffusion Models](arxiv-link)**
+**[On the Robustness of Latent Diffusion Models](https://arxiv.org/pdf/2306.08257.pdf)**
 
 ## Requirements
 
