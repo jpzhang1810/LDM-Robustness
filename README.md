@@ -105,9 +105,12 @@ If you would like to generate your own dataset on coco, you can download the [da
 If you find this work is useful in your research, please consider citing:
 
 ```
-
-arxiv link
-
+@article{zhang2023robustness,
+  title={On the Robustness of Latent Diffusion Models},
+  author={Zhang, Jianping and Xu, Zhuoer and Cui, Shiwen and Meng, Changhua and Wu, Weibin and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2306.08257},
+  year={2023}
+}
 ```
 
 ## Acknowledgments
